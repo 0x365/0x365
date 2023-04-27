@@ -2,11 +2,11 @@
 
 ## About
   
-  💥  Interested in Full-Stack
-  ✈️  Master's of Aero-Mechanical Engineering
-  🛰️  PhD research in Blockchain Networks for Satellite Systems
+*  💥  Interested in Full-Stack
+*  ✈️  Master's of Aero-Mechanical Engineering
+*  🛰️  PhD research in Blockchain Networks for Satellite Systems
 
 ## What I'm working on
 
-  ⏰  Asynchronus Consensus Mechanisms
-  ::
+*  ⏰  Asynchronus Consensus Mechanisms
+*  ::
