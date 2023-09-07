@@ -8,9 +8,7 @@
 
 ## What I'm working on
 
-*  ⏰  Asynchronus Consensus Mechanisms
-*  🪶  Lightweight Nodes
+*  🌋  Distributed Satellite-based Emergency Mapping Network
 *  ⚓  Digital Identity Reputation Contracts
 *  🔭  Large Scale Data Oracle
-*  🌋  Satellite-based Emergency Mapping Blockchain Integration
 *  🛰️  Neutral Resistant Inter-Satellite Communications System
