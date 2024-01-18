@@ -2,7 +2,7 @@
 
 ## About
   
-*  💥  Interested in Full-Stack
+*  💥  Backend Software Development for Satellite Communication
 *  ✈️  Master's of Aero-Mechanical Engineering
 *  🛰️  PhD research in Distributed Ledger Technologies for Satellite-based Emergency Mapping - [REPO](https://github.com/strath-ace/smart-dao)
 
