@@ -4,11 +4,11 @@
   
 *  💥  Interested in Full-Stack
 *  ✈️  Master's of Aero-Mechanical Engineering
-*  🛰️  PhD research in Blockchain Networks for Satellite Systems - [REPO](https://github.com/strath-ace/smart-dao)
+*  🛰️  PhD research in Distributed Ledger Technologies for Satellite-based Emergency Mapping - [REPO](https://github.com/strath-ace/smart-dao)
 
 ## What I'm working on
 
 *  🌋  Distributed Satellite-based Emergency Mapping Network
-*  ⚓  Digital Identity Reputation Contracts
-*  🔭  Large Scale Data Oracle
-*  🛰️  Neutral Resistant Inter-Satellite Communications System
+*  ⚓  Consensus Propagation
+*  🔭  Data Oracle Scaled-loading
+*  🛰️  On-orbit Satellite Communication
