@@ -2,17 +2,27 @@
 
 ## About
   
-*  :computer: Backend Software Development for Satellite Communication
+*  :computer: Web3 and Backend Software Developer
 *  🛰️  PhD research in Distributed Ledger Technologies for Satellite-based Emergency Mapping - [REPO](https://github.com/strath-ace/smart-dao)
 *  ✈️  Master's of Aero-Mechanical Engineering
 *  :memo: My Website - [robertcowlishaw.com](https://robertcowlishaw.com/)
 
 ## What I'm working on
 
-*  🌋  Distributed Satellite-based Emergency Mapping Network
-*  ⚓  Consensus Propagation
-*  🔭  Data Oracle Scaled-loading
-*  🛰️  On-orbit Satellite Communication
+* :mag: Trying to make Web3 more accessible
+* 🌋 Satellite-based Emergency Mapping Optimisation for Natural Disaster Response
+* :earth_africa: Consensus Mechanisms in Low Earth Orbit Communication Networks
+* 🛰️ Decentralised Federated Learning for Earth Observation Data
+* 🔭 Data Oracle Scaled-loading for Large Data Tasks
+
+## Some projects I work on
+
+* [My PhD work](https://github.com/strath-ace/smart-dao)
+* [SpaceDAO](https://spacedao.ai/)
+* [Blockchain Indexer](https://github.com/0x365/blockchain-indexer)
+* [Matrix Maths in Solidity](https://github.com/0x365/solidity-matrix-inversion)
+* [Tools for Starting Golang](https://github.com/0x365/go-tools)
+* [Genetic Algorithms in Golang](https://github.com/0x365/goga)
 
 ## My Research Papers
 
