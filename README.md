@@ -17,15 +17,14 @@
 
 ## Some projects I work on
 
-[<img src="https://github.com/0x365/0x365/blob/main/img/img_tool_for_visualising_orbits.png" width="200"/>](https://github.com/0x365/orbit-view)
-* [My PhD work](https://github.com/strath-ace/smart-dao)
-* [SpaceDAO](https://spacedao.ai/)
-* [EO Datasets for World Crop Mapping](https://huggingface.co/0x365)
-* [Blockchain Indexer](https://github.com/0x365/blockchain-indexer)
-* [Matrix Maths in Solidity](https://github.com/0x365/solidity-matrix-inversion)
-* [Tools for Starting Golang](https://github.com/0x365/go-tools)
-* [Genetic Algorithms in Golang](https://github.com/0x365/goga)
-* [Tool for visualising stability in the 3-body problem](https://github.com/0x365/orbit-view)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_my_phd_work.png" width="100"/>](https://github.com/strath-ace/smart-dao)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_spacedao.png" width="100"/>](https://spacedao.ai/)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_eo_datasets.png" width="100"/>](https://huggingface.co/0x365)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_blockchain_indexer.png" width="100"/>](https://github.com/0x365/blockchain-indexer)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_matrix_maths_solidity.png" width="100"/>](https://github.com/0x365/solidity-matrix-inversion)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_golang_toolkit.png" width="100"/>](https://github.com/0x365/go-tools)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_goga.png" width="100"/>](https://github.com/0x365/goga)
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_tool_for_visualising_orbits.png" width="100"/>](https://github.com/0x365/orbit-view)
 
 ## My Research Papers
 
