@@ -17,7 +17,7 @@
 
 ## Some projects I work on
 
-[<img src="https://github.com/0x365/0x365/blob/main/img/img_tool_for_visualising_orbits.png" width="200"/>]([https://github.com/user/repository/subscription](https://github.com/0x365/orbit-view))
+[<img src="https://github.com/0x365/0x365/blob/main/img/img_tool_for_visualising_orbits.png" width="200"/>](https://github.com/0x365/orbit-view)
 * [My PhD work](https://github.com/strath-ace/smart-dao)
 * [SpaceDAO](https://spacedao.ai/)
 * [EO Datasets for World Crop Mapping](https://huggingface.co/0x365)
