@@ -17,6 +17,7 @@
 
 ## Some projects I work on
 
+<a href="https://github.com/strath-ace/smart-dao" class="button">My PhD work</a>
 * [My PhD work](https://github.com/strath-ace/smart-dao)
 * [SpaceDAO](https://spacedao.ai/)
 * [EO Datasets for World Crop Mapping](https://huggingface.co/0x365)
