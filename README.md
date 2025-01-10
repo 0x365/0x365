@@ -26,15 +26,12 @@
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_my-phd-work.png" width="200" height="100"/>](https://github.com/strath-ace/smart-dao)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_spacedao.png" width="200" height="100"/>](https://spacedao.ai/)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_pytools.png" width="200" height="100"/>](https://github.com/0x365/py-tools)
-
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_eo-crop-mapping.png" width="200" height="100"/>](https://huggingface.co/0x365)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_web-indexer.png" width="200" height="100"/>](https://github.com/0x365/blockchain-indexer)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_solidity-matrices.png" width="200" height="100"/>](https://github.com/0x365/solidity-matrix-inversion)
-
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_gotools.png" width="200" height="100"/>](https://github.com/0x365/go-tools)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_goga.png" width="200" height="100"/>](https://github.com/0x365/goga)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_body-problem.png" width="200" height="100"/>](https://github.com/0x365/orbit-view)
-
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_web-sandbox.png" width="200" height="100"/>](https://github.com/0x365/chain-lab)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_eo-vector-cutter.png" width="200" height="100"/>](https://github.com/0x365/sentinel-to-dataset)
 
