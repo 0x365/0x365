@@ -23,8 +23,7 @@
 
 ## Some projects I work on
 
-[<button name="button" onclick="http://www.google.com">Click me</button>](www.google.com)
-[<img src="https://github.com/0x365/0x365/blob/main/img/img_my_phd_work.png" width="200" height="100"/>](https://github.com/strath-ace/smart-dao)
+[<img src="https://github.com/0x365/0x365/blob/main/img/button_my-phd-work.png" width="200" height="100"/>](https://github.com/strath-ace/smart-dao)
 [<img src="https://github.com/0x365/0x365/blob/main/img/img_spacedao.png" width="200" height="100"/>](https://spacedao.ai/)
 [<img src="https://github.com/0x365/0x365/blob/main/img/img_eo_datasets.png" width="200" height="100"/>](https://huggingface.co/0x365)
 [<img src="https://github.com/0x365/0x365/blob/main/img/img_blockchain_indexer.png" width="200" height="100"/>](https://github.com/0x365/blockchain-indexer)
