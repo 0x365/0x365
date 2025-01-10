@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=80&pause=1000&color=00C647&vCenter=true&width=500&height=100&lines=Robert+Cowlishaw)](https://git.io/typing-svg)
-
-## Progress
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&size=70&duration=4000&pause=1000&color=518EAE&vCenter=true&width=800&height=100&lines=Robert+Cowlishaw)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x365/0x365/output/github-contribution-grid-snake-dark.svg" />
