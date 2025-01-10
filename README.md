@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=80&pause=1000&color=1D6483&center=true&vCenter=true&width=1024&height=150&lines=Robert+Cowlishaw)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=80&pause=1000&color=00C647&vCenter=true&width=500&height=100&lines=Robert+Cowlishaw)](https://git.io/typing-svg)
 
 ## Progress
 
