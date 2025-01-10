@@ -11,7 +11,6 @@
 *  ✈️  Master's of Aero-Mechanical Engineering
 
 :memo: My Website - 
-[<a href="", style="text-decoration:none">robertcowlishaw.com</a>](https://robertcowlishaw.com)
 <a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 ## What I'm working on
 
