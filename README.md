@@ -9,7 +9,7 @@
 *  :computer: Web3 and Backend Software Reseacher and Developer
 *  🛰️  PhD research in Distributed Ledger Technologies for Satellite-based Emergency Mapping - [REPO](https://github.com/strath-ace/smart-dao)
 *  ✈️  Master's of Aero-Mechanical Engineering
-*  :memo: My Website - [robertcowlishaw.com](https://robertcowlishaw.com/)
+*  :memo: My Website - <a href="https://robertcowlishaw.com", style="text-decoration:none">robertcowlishaw.com</a>
 
 ## What I'm working on
 
