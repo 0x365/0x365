@@ -2,7 +2,7 @@
 
 ## Progress
 
-![Snake animation](https://github.com/0x365/0x365/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ## About
   
