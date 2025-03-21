@@ -31,9 +31,9 @@
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_solidity-matrices.png" width="200" height="100"/>](https://github.com/0x365/solidity-matrix-inversion)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_gotools.png" width="200" height="100"/>](https://github.com/0x365/go-tools)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_goga.png" width="200" height="100"/>](https://github.com/0x365/goga)
-[<img src="https://github.com/0x365/0x365/blob/main/img/button_body-problem.png" width="200" height="100"/>](https://github.com/0x365/orbit-view)
+[<img src="https://github.com/0x365/0x365/blob/main/img/button_body-problem.png" width="200" height="100"/>](https://github.com/0x365/astropy)
 [<img src="https://github.com/0x365/0x365/blob/main/img/button_web-sandbox.png" width="200" height="100"/>](https://github.com/0x365/chain-lab)
-[<img src="https://github.com/0x365/0x365/blob/main/img/button_eo-vector-cutter.png" width="200" height="100"/>](https://github.com/0x365/sentinel-to-dataset)
+[<img src="https://github.com/0x365/0x365/blob/main/img/button_eo-vector-cutter.png" width="200" height="100"/>](https://github.com/0x365/eo-tools)
 
 ## My Research Papers
 
